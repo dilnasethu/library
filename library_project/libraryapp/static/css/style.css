@@ -1,0 +1,30 @@
+.navbar {
+    background-color: black !important;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.nav-link {
+    color: gray !important;
+}
+
+.nav-link.active {
+    color: white !important;
+}
+
+.navbar-toggler {
+    border-color: white;
+}
+
+
+body, html {
+    height: 100%;
+}
+.full-screen-img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
